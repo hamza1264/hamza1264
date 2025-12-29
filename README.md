@@ -1,9 +1,9 @@
 
 ![logo](https://raw.githubusercontent.com/hamza1264/hamza1264/7280a3ab8e01ac5d3276c743bcf9ab00442cfe11/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Hamza Ansari</h1>
-<h3 align="center">Learning to code || Future software developer</h3>
+<!-- <h3 align="center">Learning to code || Future software developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hamza1264/hamza1264/4a673cc3d1509fc96e014844d2d1666b89220b74/gift.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hamza1264/hamza1264/4a673cc3d1509fc96e014844d2d1666b89220b74/gift.gif"> -->
 
 - 🌱 I’m currently learning **web development for SMIT**
 
