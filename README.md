@@ -31,6 +31,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza1264&" alt="hamza1264" /></p>
 
+## 📈 Hamza Ansari's Contribution Graph
+
+![Hamza Ansari Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamza1264&theme=tokyo-night)
 
 
 
