@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **web development for SMIT**
 
-- 👨‍💻 All of my projects are available at **portfolio name**
+- 👨‍💻 All of my projects are available at **https://hamza-ansari-portfolio.netlify.app**
 
-- 📄 Know about my experiences **portfolio name**
+- 📄 Know about my experiences **https://hamza-ansari-portfolio.netlify.app**
 
 - 📫 How to reach me **hamza.aiet.student@gmail.com**
 
