@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web development for SMIT**
 
-- 👨‍💻 All of my projects are available at **https://hamza1264.github.io/Hamza-Ansari-portfolio/**
+- 👨‍💻 All of my projects are available at **https://hamzaansari.vercel.app**
 
 - 📄 Know about my experiences **https://hamzaansari.vercel.app**
 
