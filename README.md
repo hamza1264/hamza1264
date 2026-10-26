@@ -1,4 +1,7 @@
 
+
+
+
 ![logo](https://raw.githubusercontent.com/hamza1264/hamza1264/7280a3ab8e01ac5d3276c743bcf9ab00442cfe11/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Hamza Ansari</h1>
 <h3 align="center">Learning to code || Future software developer</h3>
@@ -17,9 +20,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hamza-ansari-a42a80378/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+  </a>
+
+  <!-- WhatsApp (New Added) -->
+  <a href="https://wa.me/923710313814" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/19UX7knCGD/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/hamzaansari2985?" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,7 +62,3 @@
 ## 📈 Hamza Ansari's Contribution Graph
 
 ![Hamza Ansari Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamza1264&theme=tokyo-night)
-
-
-
-
