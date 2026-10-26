@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **https://hamza1264.github.io/Hamza-Ansari-portfolio/**
 
-- 📄 Know about my experiences **https://hamza-ansari.netlify.app**
+- 📄 Know about my experiences **https://hamzaansari.vercel.app**
 
 - 📫 How to reach me **hamza.aiet.student@gmail.com**
 
